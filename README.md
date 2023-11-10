@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Go-Crud](https://github.com/tahmid56/Go-Crud)
 
-- 💬 Ask me about **Swift, Javascript, DSA**
+- 💬 Ask me about **Swift, Javascript, DSA(LeetCode)**
 
 - 📫 How to reach me **tahmidakter56@gmail.com**
 
