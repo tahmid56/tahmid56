@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Instagram Clone App](https://github.com/tahmid56/InstagramClone)
 
-- 🌱 I’m currently learning **SwiftUI, React Native, DSA**
+- 🌱 I’m currently learning **SwiftUI, React Native, DSA, Golang**
 
 - 🤝 I’m looking for help with [Go-Crud](https://github.com/tahmid56/Go-Crud)
 
