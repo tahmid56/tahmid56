@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hotel Management App(backend api)](https://github.com/tahmid56/hotel-management)
 
-- 🌱 I’m currently learning **SwiftUI, Android, DSA, Golang**
+- 🌱 I’m currently learning **Swift, Android, DSA, Golang, Java, Kotlin**
 
 - 🤝 I’m looking for help with [Go-Crud](https://github.com/tahmid56/Go-Crud)
 
