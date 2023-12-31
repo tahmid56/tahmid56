@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hotel Management App(backend api)](https://github.com/tahmid56/hotel-management)
 
-- 🌱 I’m currently learning **Swift, Android, DSA, Golang, Java, Kotlin**
+- 🌱 I’m currently learning **Swift, Android, DSA, Golang, Java, Kotlin, Jetpack Compose**
 
 - 💬 Ask me about **Swift, Javascript, Java, DSA(LeetCode)**
 
