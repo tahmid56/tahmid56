@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahmid56" alt="tahmid56" /></a> </p>
 
-- 🔭 I’m currently working on [Hotel Management App(backend api)](https://github.com/tahmid56/hotel-management)
+- 🌱 I’m currently learning **Microservices, Grpc, Protobuf, Websocket**
 
-- 🌱 I’m currently learning **Swift, Android, DSA, Golang, Java, Spring boot, Spring data jpa**
-
-- 💬 Ask me about **Swift, Javascript, Java, DSA(LeetCode)**
+- 💬 Ask me about **Rust, Golang, DSA(LeetCode)**
 
 - 📫 How to reach me **tahmidakter56@gmail.com**
 
