@@ -1,26 +1,130 @@
-<h1 align="center">Hi 👋, I'm Tahmid Akter</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h1 align="center">👋 Hi, I'm Tahmid</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmid56&label=Profile%20views&color=0e75b6&style=flat" alt="tahmid56" /> </p>
-
-- 🌱 I’m currently learning **Microservices, Grpc, Protobuf, Websocket**
-
-- 💬 Ask me about **Rust, Golang, DSA(LeetCode)**
-
-- 📫 How to reach me **tahmidakter56@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tahmid akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahmid akter" height="30" width="40" /></a>
-<a href="https://fb.com/tahmid akther" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahmid akther" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tahmidakter56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahmidakter56" height="30" width="40" /></a>
+<p align="center">
+  🚀 Backend Engineer | Systems Thinker | Builder of Scalable Things
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>Turning caffeine into distributed systems ☕ → ⚙️</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmid56&show_icons=true&locale=en&layout=compact" alt="tahmid56" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmid56&show_icons=true&locale=en" alt="tahmid56" /></p>
+<h2>🧠 About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmid56&" alt="tahmid56" /></p>
+<p>
+I’m a backend-focused engineer who enjoys building <b>reliable, scalable, and production-grade systems</b>.
+I go beyond just writing APIs — I care about <b>how systems behave under load, fail, recover, and scale</b>.
+</p>
+
+<ul>
+  <li>🔧 Strong focus on <b>Golang, Rust, and backend architecture</b></li>
+  <li>☁️ Interested in <b>cloud-native systems & distributed architecture</b></li>
+  <li>⚙️ Love working with <b>performance, concurrency, and system design</b></li>
+  <li>🧪 Prefer <b>learning by building</b>, not tutorials</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>💻 Languages</h3>
+<ul>
+  <li>Go (Golang)</li>
+  <li>Rust</li>
+  <li>TypeScript / JavaScript</li>
+</ul>
+
+<h3>⚙️ Backend & Systems</h3>
+<ul>
+  <li>REST APIs, Microservices</li>
+  <li>Rate limiting, graceful shutdown</li>
+  <li>Background workers & queues</li>
+  <li>Authentication systems</li>
+</ul>
+
+<h3>🗄️ Databases</h3>
+<ul>
+  <li>PostgreSQL</li>
+  <li>SQLx / SQLc</li>
+  <li>Query optimization & migrations</li>
+</ul>
+
+<h3>☁️ DevOps & Cloud</h3>
+<ul>
+  <li>Docker</li>
+  <li>GitHub Actions (CI/CD)</li>
+  <li>AWS (learning & building)</li>
+  <li>Nginx / Reverse Proxy</li>
+</ul>
+
+<hr/>
+
+<h2>📌 What I Care About</h2>
+
+<ul>
+  <li>Writing <b>clean, maintainable backend code</b></li>
+  <li>Designing <b>fault-tolerant systems</b></li>
+  <li>Building <b>real-world production systems</b></li>
+  <li>Understanding <b>how things actually work under the hood</b></li>
+</ul>
+
+<hr/>
+
+<h2>🚧 Current Focus</h2>
+
+<ul>
+  <li>🧱 System design & scalability</li>
+  <li>☁️ AWS + production deployments</li>
+  <li>🔄 CI/CD pipelines</li>
+  <li>⚡ High-performance backend services</li>
+</ul>
+
+<hr/>
+
+<h2>📂 Featured Work</h2>
+
+<ul>
+  <li>Backend systems with:
+    <ul>
+      <li>Rate limiting</li>
+      <li>Graceful shutdown</li>
+      <li>Database migrations</li>
+    </ul>
+  </li>
+  <li>Experiments with:
+    <ul>
+      <li>Rust backend systems</li>
+      <li>WebAssembly</li>
+      <li>Distributed architecture</li>
+    </ul>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>📈 GitHub Philosophy</h2>
+
+<pre>
+If it works, it scales.
+If it scales, it breaks.
+If it breaks, we fix it better.
+</pre>
+
+<hr/>
+
+<h2>🤝 Let's Connect</h2>
+
+<ul>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/tahmid-akter/">Tahmid Akter</a></li>
+  <li>📧 Email: <a href="mailto:tahmidakter56@gmail.com.com">tahmidakter56@gmail.com</a></li>
+</ul>
+
+<hr/>
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+I don’t just build features — <br/>
+<b>I build systems that survive production.</b>
+</p>
